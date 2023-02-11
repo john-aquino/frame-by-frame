@@ -1,1 +1,1 @@
-# vid-to-image-sequence
+# frame-by-frame
